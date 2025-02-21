@@ -1,0 +1,1 @@
+Customer Sentiment Analysis is a Natural Language Processing (NLP) project that aims to analyze customer reviews, feedback, or comments to determine their sentiment—positive, negative, or neutral. This analysis helps businesses understand customer satisfaction, identify areas for improvement, and make data-driven decisions.
