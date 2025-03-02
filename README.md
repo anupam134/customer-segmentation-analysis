@@ -14,20 +14,6 @@ Spending Score (1-100) – A metric of customer engagement with the mall
 Identify different customer groups based on spending habits
 Provide insights for targeted marketing strategies
 Compare clustering algorithms to find the best segmentation method
-🔧 Installation & Setup
-Prerequisites
-Ensure you have Python 3.7+ and the following libraries installed:
-
-bash
-Copy
-Edit
-pip install pandas numpy matplotlib seaborn scikit-learn
-Clone the Repository
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/customer-segmentation.git
-cd customer-segmentation
 📊 Methodology
 1️⃣ Exploratory Data Analysis (EDA)
 Handling missing values
